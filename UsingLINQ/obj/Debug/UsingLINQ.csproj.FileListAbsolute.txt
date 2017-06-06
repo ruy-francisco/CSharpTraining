@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\UsingLINQ\bin\Debug\UsingLINQ.exe.config
+C:\Users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\UsingLINQ\bin\Debug\UsingLINQ.exe
+C:\Users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\UsingLINQ\bin\Debug\UsingLINQ.pdb
+C:\Users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\UsingLINQ\obj\Debug\UsingLINQ.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\UsingLINQ\obj\Debug\UsingLINQ.exe
+C:\Users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\UsingLINQ\obj\Debug\UsingLINQ.pdb

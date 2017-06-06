@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingPredicate\bin\Debug\UsingPredicate.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingPredicate\bin\Debug\UsingPredicate.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingPredicate\bin\Debug\UsingPredicate.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingPredicate\obj\Debug\UsingPredicate.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingPredicate\obj\Debug\UsingPredicate.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingPredicate\obj\Debug\UsingPredicate.pdb

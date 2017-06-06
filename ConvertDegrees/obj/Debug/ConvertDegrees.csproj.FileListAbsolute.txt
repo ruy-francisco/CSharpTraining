@@ -1,0 +1,6 @@
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\ConvertDegrees\bin\Debug\ConvertDegrees.exe.config
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\ConvertDegrees\bin\Debug\ConvertDegrees.exe
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\ConvertDegrees\bin\Debug\ConvertDegrees.pdb
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\ConvertDegrees\obj\Debug\ConvertDegrees.csprojResolveAssemblyReference.cache
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\ConvertDegrees\obj\Debug\ConvertDegrees.exe
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\ConvertDegrees\obj\Debug\ConvertDegrees.pdb

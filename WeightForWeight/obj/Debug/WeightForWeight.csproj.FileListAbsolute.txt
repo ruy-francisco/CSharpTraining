@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\WeightForWeight\bin\Debug\WeightForWeight.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\WeightForWeight\bin\Debug\WeightForWeight.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\WeightForWeight\bin\Debug\WeightForWeight.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\WeightForWeight\obj\Debug\WeightForWeight.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\WeightForWeight\obj\Debug\WeightForWeight.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\WeightForWeight\obj\Debug\WeightForWeight.pdb

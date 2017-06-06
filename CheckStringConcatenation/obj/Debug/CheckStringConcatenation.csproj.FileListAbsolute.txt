@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenation\bin\Debug\CheckStringConcatenation.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenation\bin\Debug\CheckStringConcatenation.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenation\bin\Debug\CheckStringConcatenation.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenation\obj\Debug\CheckStringConcatenation.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenation\obj\Debug\CheckStringConcatenation.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenation\obj\Debug\CheckStringConcatenation.pdb

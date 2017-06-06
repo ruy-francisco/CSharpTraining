@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CalculatingPeopleInTheBus\bin\Debug\CalculatingPeopleInTheBus.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CalculatingPeopleInTheBus\bin\Debug\CalculatingPeopleInTheBus.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CalculatingPeopleInTheBus\bin\Debug\CalculatingPeopleInTheBus.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CalculatingPeopleInTheBus\obj\Debug\CalculatingPeopleInTheBus.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CalculatingPeopleInTheBus\obj\Debug\CalculatingPeopleInTheBus.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CalculatingPeopleInTheBus\obj\Debug\CalculatingPeopleInTheBus.pdb

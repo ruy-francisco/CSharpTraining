@@ -1,0 +1,5 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RemovingFinalZeros\bin\Debug\RemovingFinalZeros.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RemovingFinalZeros\bin\Debug\RemovingFinalZeros.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RemovingFinalZeros\bin\Debug\RemovingFinalZeros.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RemovingFinalZeros\obj\Debug\RemovingFinalZeros.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RemovingFinalZeros\obj\Debug\RemovingFinalZeros.pdb

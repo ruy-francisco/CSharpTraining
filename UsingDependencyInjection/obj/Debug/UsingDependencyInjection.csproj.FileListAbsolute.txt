@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingDependencyInjection\bin\Debug\UsingDependencyInjection.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingDependencyInjection\bin\Debug\UsingDependencyInjection.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingDependencyInjection\bin\Debug\UsingDependencyInjection.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingDependencyInjection\obj\Debug\UsingDependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingDependencyInjection\obj\Debug\UsingDependencyInjection.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\UsingDependencyInjection\obj\Debug\UsingDependencyInjection.pdb

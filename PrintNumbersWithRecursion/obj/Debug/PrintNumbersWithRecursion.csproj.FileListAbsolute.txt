@@ -1,0 +1,6 @@
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\PrintNumbersWithRecursion\bin\Debug\PrintNumbersWithRecursion.exe.config
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\PrintNumbersWithRecursion\bin\Debug\PrintNumbersWithRecursion.exe
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\PrintNumbersWithRecursion\bin\Debug\PrintNumbersWithRecursion.pdb
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\PrintNumbersWithRecursion\obj\Debug\PrintNumbersWithRecursion.exe
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\PrintNumbersWithRecursion\obj\Debug\PrintNumbersWithRecursion.pdb
+C:\Users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\PrintNumbersWithRecursion\obj\Debug\PrintNumbersWithRecursion.csprojResolveAssemblyReference.cache

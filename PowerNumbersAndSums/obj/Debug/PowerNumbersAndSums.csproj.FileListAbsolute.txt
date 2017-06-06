@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSums\bin\Debug\PowerNumbersAndSums.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSums\bin\Debug\PowerNumbersAndSums.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSums\bin\Debug\PowerNumbersAndSums.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSums\obj\Debug\PowerNumbersAndSums.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSums\obj\Debug\PowerNumbersAndSums.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSums\obj\Debug\PowerNumbersAndSums.pdb

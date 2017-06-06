@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RangeOfNumbersWithStep\bin\Debug\RangeOfNumbersWithStep.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RangeOfNumbersWithStep\bin\Debug\RangeOfNumbersWithStep.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RangeOfNumbersWithStep\bin\Debug\RangeOfNumbersWithStep.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RangeOfNumbersWithStep\obj\Debug\RangeOfNumbersWithStep.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RangeOfNumbersWithStep\obj\Debug\RangeOfNumbersWithStep.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RangeOfNumbersWithStep\obj\Debug\RangeOfNumbersWithStep.pdb

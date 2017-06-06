@@ -1,0 +1,6 @@
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\InvertingLetters\bin\Debug\InvertingLetters.exe.config
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\InvertingLetters\bin\Debug\InvertingLetters.exe
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\InvertingLetters\bin\Debug\InvertingLetters.pdb
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\InvertingLetters\obj\Debug\InvertingLetters.exe
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\InvertingLetters\obj\Debug\InvertingLetters.pdb
+c:\users\ruy.almeida\documents\visual studio 2015\Projects\CSharpTraining\InvertingLetters\obj\Debug\InvertingLetters.csprojResolveAssemblyReference.cache

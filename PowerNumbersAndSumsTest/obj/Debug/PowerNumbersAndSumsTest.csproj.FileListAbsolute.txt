@@ -1,0 +1,9 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\bin\Debug\PowerNumbersAndSumsTest.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\bin\Debug\PowerNumbersAndSumsTest.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\bin\Debug\PowerNumbersAndSums.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\bin\Debug\PowerNumbersAndSums.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\obj\Debug\PowerNumbersAndSumsTest.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\obj\Debug\PowerNumbersAndSumsTest.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\PowerNumbersAndSumsTest\obj\Debug\PowerNumbersAndSumsTest.pdb

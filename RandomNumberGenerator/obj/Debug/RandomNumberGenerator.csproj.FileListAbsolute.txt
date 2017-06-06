@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.pdb

@@ -1,0 +1,2 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckingSquareRoot\bin\Debug\CheckingSquareRoot.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckingSquareRoot\obj\Debug\CheckingSquareRoot.csprojResolveAssemblyReference.cache

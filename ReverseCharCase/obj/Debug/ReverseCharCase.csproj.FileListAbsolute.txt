@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\ReverseCharCase\bin\Debug\ReverseCharCase.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\ReverseCharCase\bin\Debug\ReverseCharCase.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\ReverseCharCase\bin\Debug\ReverseCharCase.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\ReverseCharCase\obj\Debug\ReverseCharCase.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\ReverseCharCase\obj\Debug\ReverseCharCase.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\ReverseCharCase\obj\Debug\ReverseCharCase.pdb

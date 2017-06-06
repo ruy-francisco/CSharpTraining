@@ -1,0 +1,9 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\bin\Debug\CheckStringConcatenationTest.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\bin\Debug\CheckStringConcatenationTest.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\bin\Debug\CheckStringConcatenation.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\bin\Debug\CheckStringConcatenation.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\obj\Debug\CheckStringConcatenationTest.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\obj\Debug\CheckStringConcatenationTest.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CheckStringConcatenationTest\obj\Debug\CheckStringConcatenationTest.pdb

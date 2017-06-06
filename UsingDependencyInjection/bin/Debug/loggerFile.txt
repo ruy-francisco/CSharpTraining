@@ -1,0 +1,4 @@
+Usuário de código 34 e nome Ruy Almeida executou Opa opa opa
+Usuário de código 34 e nome Ruy Almeida executou Opa opa opa
+Usuário de código 34 e nome Ruy Almeida executou Olá, hoje é sexta-feira
+Usuário de código 55 e nome Ruy Almeida executou Now I am using Dependency Injection
