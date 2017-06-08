@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace PowerNumbersAndSums.Class
 {
@@ -10,42 +11,39 @@ namespace PowerNumbersAndSums.Class
     {
         public static long PowerSumDigTerm(int n)
         {
-            int controller = 0;
-            long count = 10;
-            long resultNumber = 0;
+            int count = 0;
+            long currentNumber = 80;
 
-            while(controller < n)
+            while(count < n)
             {
-                if(PowerEqualsSumOfDigits(count))
-                {
-                    resultNumber = count;
-                    controller++;
-                }
+                currentNumber++;
 
-                count++;
+                if(PowerEqualsSumOfDigits(currentNumber))
+                    count++;                
             }
 
-            return resultNumber;
+            return currentNumber;
         }
 
         public static bool PowerEqualsSumOfDigits(long input)
         {
             var listOfDigits = input.ToString().Select(c => c).ToArray();
             int sumOfDigits = (int)listOfDigits.Sum(d => Char.GetNumericValue(d));
+            bool returnVal = false;
 
-            int count = 1;
-            while(count <= sumOfDigits)
+            Parallel.For(1, (int)input, (int powNumber, ParallelLoopState pls) =>
             {
-                if(input == Math.Pow(sumOfDigits, count))
-                    return true;
+                if(input == Math.Pow(sumOfDigits, powNumber))
+                {
+                    returnVal = true;
+                    pls.Break();
+                }                
 
-                if(input < Math.Pow(sumOfDigits, count))
-                    return false;
+                if(input < Math.Pow(sumOfDigits, powNumber))
+                    pls.Break();
+            });
 
-                count++;
-            }
-
-            return false;
+            return returnVal;
         }
     }
 }

@@ -1,1 +1,6 @@
 C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CrakingLock\bin\Debug\CrakingLock.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CrakingLock\bin\Debug\CrakingLock.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CrakingLock\bin\Debug\CrakingLock.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CrakingLock\obj\Debug\CrakingLock.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CrakingLock\obj\Debug\CrakingLock.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\CSharpTraining\CrakingLock\obj\Debug\CrakingLock.pdb
