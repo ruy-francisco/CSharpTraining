@@ -11,39 +11,43 @@ namespace PowerNumbersAndSums.Class
     {
         public static long PowerSumDigTerm(int n)
         {
-            int count = 0;
-            long currentNumber = 80;
-
-            while(count < n)
-            {
-                currentNumber++;
-
-                if(PowerEqualsSumOfDigits(currentNumber))
-                    count++;                
-            }
-
-            return currentNumber;
+            return PowerEqualsSumOfDigits(80, 0, n);
         }
 
-        public static bool PowerEqualsSumOfDigits(long input)
+        public static long PowerEqualsSumOfDigits(long starterNumber, int count, long input)
         {
-            var listOfDigits = input.ToString().Select(c => c).ToArray();
-            int sumOfDigits = (int)listOfDigits.Sum(d => Char.GetNumericValue(d));
-            bool returnVal = false;
+            if(count == input)
+                return starterNumber - 1;
 
-            Parallel.For(1, (int)input, (int powNumber, ParallelLoopState pls) =>
+            var listOfDigits = starterNumber.ToString().Select(c => c).ToArray();
+            int sumOfDigits = 0;
+            bool isValidNumber = false;
+
+            while(true)
             {
-                if(input == Math.Pow(sumOfDigits, powNumber))
+                listOfDigits = starterNumber.ToString().Select(c => c).ToArray();
+                sumOfDigits = (int)listOfDigits.Sum(d => Char.GetNumericValue(d));
+
+                if(sumOfDigits > 1 && (starterNumber % sumOfDigits == 0))
                 {
-                    returnVal = true;
-                    pls.Break();
+                    Parallel.For(1, int.MaxValue, (int curPow, ParallelLoopState pls) =>
+                    {
+                        if(starterNumber == Math.Pow(sumOfDigits, curPow))
+                        {
+                            isValidNumber = true;
+                            pls.Break();
+                        }   
+
+                        if(starterNumber < Math.Pow(sumOfDigits, curPow))
+                            pls.Break();
+                    });
+
+                    if(isValidNumber)
+                        return PowerEqualsSumOfDigits(++starterNumber, ++count, input);
                 }                
 
-                if(input < Math.Pow(sumOfDigits, powNumber))
-                    pls.Break();
-            });
-
-            return returnVal;
+                starterNumber++;
+            }
         }
     }
 }
